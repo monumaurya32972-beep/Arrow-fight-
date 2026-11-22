@@ -1,0 +1,6 @@
+{
+  "name": "SOLAR BREACH",
+  "description": "A high-velocity 2D top-down vector arcade arena shooter with procedural Web Audio, dash mechanics, telegraphed enemies, and escalating wave combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
